@@ -3,9 +3,23 @@
 Trabalho prático final em grupo da disciplina **Introdução à Ciência de Dados**, ofertada no segundo semestre de 2024.  
 O tema geral do trabalho foi: **Violência**.
 
+## Integrantes - Grupo 12
+
+Eduardo Alves Cordeiro
+Lucas Paulo de Oliveira Silva
+Wesley Marques Daniel Chaves
+Victor Henrique Silva Ribeiro
+
 ## Objetivo
 O projeto buscou aplicar técnicas de análise exploratória, estatística inferencial e aprendizado de máquina para investigar padrões e relações envolvendo dados de violência no Brasil.  
 A proposta foi integrar teoria e prática, utilizando bases reais e ferramentas modernas de ciência de dados.
+
+## Perguntas a serem respondidas
+
+- Existe uma relação entre a intensidade do extrativismo e agropecuária e a quantidade de desmatamento no Brasil?
+- Existe uma correlação significativa entre a quantidade de homicídios nos municípios de MG e seus indicadores socioeconômicos?
+- Existe uma relação entre a quantidade de posse ilegal de armas de fogo e a quantidade de roubos ou furtos de veículos no Brasil?
+- O aumento da posse e porte de armas está relacionado ao crescimento dos índices de feminicídio e violência contra a mulher?
 
 ## Estrutura do Projeto
 O desenvolvimento seguiu os principais módulos da disciplina:
